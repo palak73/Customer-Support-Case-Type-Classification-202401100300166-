@@ -17,7 +17,7 @@ This project aims to classify customer support cases into **billing**, **technic
 
 ## 📂 Dataset
 
-The dataset should contain following columns:
+The dataset contain following columns:
 
 | Column Name       | Description                               |
 |-------------------|-------------------------------------------|

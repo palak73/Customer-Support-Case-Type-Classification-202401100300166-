@@ -25,7 +25,6 @@ The dataset should contain following columns:
 | `Response`        |The response from the support team |
 | `case_type`       | Label for the case (`billing`, `technical`, or `general`) |
 
-If you're working with numeric features instead of raw text, update the feature engineering steps accordingly.
 
 ---
 
